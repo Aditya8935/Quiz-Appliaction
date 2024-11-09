@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- item_review.xml -->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp"
+        tools:ignore="MissingConstraints">
+
+        <!-- Question text -->
+        <TextView
+            android:id="@+id/review_question"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Question"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+        <!-- User's answer -->
+        <TextView
+            android:id="@+id/review_user_answer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Your Answer: "
+            android:textSize="14sp"/>
+
+        <!-- Correct answer -->
+        <TextView
+            android:id="@+id/review_correct_answer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Correct Answer: "
+            android:textSize="14sp"/>
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

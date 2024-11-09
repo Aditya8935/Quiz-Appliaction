@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz Minor</string>
+    <string name="question_indicator_format">Question %1$d/%2$d</string>
+    <string name="reference_books">
+        Mathematics\n
+        "1. Higher Engineering Mathematics" by B.S. Grewal\n
+        "2. Advanced Engineering Mathematics" by Erwin Kreyszig\n\n
+        Programming\n
+        "1. The C Programming Language" by Brian W. Kernighan and Dennis M. Ritchie\n
+        "2. Let Us C" by Yashavant Kanetkar\n\n
+        Physics\n
+        "1. Engineering Physics" by R.K. Gaur and S.L. Gupta\n
+        "2. Concepts of Modern Physics" by Arthur Beiser\n\n
+        Chemistry\n
+        "1. Engineering Chemistry" by Jain and Jain\n
+        "2. A Textbook of Engineering Chemistry" by Shashi Chawla\n\n
+        Electrical and Electronics Engineering\n
+        "1. Basic Electrical Engineering" by D.P. Kothari and I.J. Nagrath\n
+        "2. Principles of Electronics" by V.K. Mehta and Rohit Mehta
+    </string>
+</resources>

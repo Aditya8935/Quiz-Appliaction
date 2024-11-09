@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "888012675279",
+    "project_id": "quiz-minor-39e0b",
+    "storage_bucket": "quiz-minor-39e0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888012675279:android:94f5e5c70f326dbd12ffba",
+        "android_client_info": {
+          "package_name": "com.example.quizminor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnRQHRE1rm_aV6EpQdX7ve1bbqkW2Zw_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
